@@ -1,0 +1,15 @@
+{
+  "name": "essixclass",
+  "version": "1.0.0",
+  "description": "class learning",
+  "type":"module", 
+  "main": "ESSixClass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "corhort 2_Mike",
+  "license": "ISC"
+}
